@@ -1,6 +1,6 @@
 # Hi, I'm Michal.
 
-🏢 Full-stack developer @ [Guava](https://guava.cz) <br>
+🏢 Full-stack developer @ <a style="hsl(100,50,50)" href="https://guava.cz">Guava</a> <br>
 🎓️ Studying software development @ [University of West Bohemia](https://zcu.cz) <br>
 🔨 Building a startup for modern schools @ [Treda](https://treda.eu) <br>
 <br>
